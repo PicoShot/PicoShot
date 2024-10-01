@@ -7,7 +7,6 @@ Web Backend and Windows Developer
 I've been learning to code for 5 years, after switching careers. I started with Lua, but have really found a passion for backend development...
 
 * 🌍  I'm based in Turkey
-* 🖥️  See my portfolio at [PicoShot.XYZ](http://picoshot.xyz)
 * ✉️  You can contact me at [admin@picoshot.net](mailto:admin@picoshot.net)
 * 🚀  I'm currently working on [My Website](http://picoshot.net)
 * 🧠  I'm learning a new framework
