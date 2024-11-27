@@ -53,7 +53,7 @@ I've been learning to code for 5 years, after switching careers. I started with 
 
 <b>My GitHub Stats</b>
 
-<table border="0">
+<table border="0" style="border: none;">
   <tr>
     <td align="center" style="padding: 20px;">
       <a href="http://www.github.com/picoshot"><img src="https://github-readme-streak-stats.herokuapp.com/?user=picoshot&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
