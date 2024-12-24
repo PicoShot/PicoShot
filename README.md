@@ -6,7 +6,7 @@ Web and Windows Developer
 
 I've been learning to code for 5 years, after switching careers. I started with Lua, but have really found a passion for backend development...
 
-* ✉️  You can contact me at [admin@picoshot.net](mailto:admin@picoshot.net)
+* ✉️  You can contact me at [admin@picoshot.net](mailto:dev@picoshot.net)
 * 🤝  I'm open to collaborating on php, js, ts, c#, c++ projects
 
 ### Skills
