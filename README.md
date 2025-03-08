@@ -4,9 +4,9 @@ Hi Welcome to my profile
 Web and Windows Developer
 ---------------------------------
 
-I've been learning to code for 5 years, after switching careers. I started with Lua, but have really found a passion for backend development...
+I'm a passionate C++ developer with a deep interest in Windows API, Windows kernel development, and reverse engineering. My expertise lies in dissecting and understanding the inner workings of software at the lowest levels, allowing me to build robust, efficient, and secure applications. Always eager to explore new challenges, I thrive on turning complex problems into elegant, efficient solutions.
 
-* ✉️  You can contact me at [admin@picoshot.net](mailto:dev@picoshot.net)
+* ✉️  You can contact me at [dev@picoshot.net](mailto:dev@picoshot.net)
 * 🤝  I'm open to collaborating on php, js, ts, c#, c++ projects
 
 ### Skills
@@ -31,20 +31,14 @@ I've been learning to code for 5 years, after switching careers. I started with 
 ### Socials
 
 <div align="left">
-  <a href="https://www.youtube.com/@picoshot" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
   <a href="https://www.instagram.com/picoshot241/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://discord.gg/7ZKaBMpNXv" target="_blank">
+  <a href="https://discord.com/users/1208419597792055417" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <a href="https://t.me/PicoShot" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-  </a>
-  <a href="https://wa.link/2hjd0h" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
 </div>
 
