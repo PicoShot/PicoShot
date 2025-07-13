@@ -14,7 +14,7 @@
 </div>
 
 ## Focus Areas
-- **Systems Programming** • Low-level Windows development
+- **Systems Programming** • Low-level development, manual memory managing.
 - **Reverse Engineering** • Binary analysis and security research  
 - **Web Development** • Full-stack applications
 
