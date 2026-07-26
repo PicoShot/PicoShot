@@ -8,7 +8,7 @@
 - Telegram: [@PicoShot](https://t.me/PicoShot)
 
 <p align="center">
-  <a href="https://github.com/the-snesler/discord-github-preview">
+  <a href="https://discord.com/users/1208419597792055417">
     <img src="https://dsc-readme.tsuni.dev/api/user/1208419597792055417?pronouns=he%2Fhim&hideDecoration=true&theme=dark&width=512&nameColor1=ffffff" alt="picoshot's Discord status" />
   </a>
 </p>
